@@ -163,5 +163,10 @@ footer{
 h3 .footer-color{
     color: #E65474;
 }
+.copyright-p{
+    color: #808080;
+    font-size: 11px;
+    margin: 23px 0px;
+}
 
 
