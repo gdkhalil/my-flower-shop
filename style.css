@@ -13,7 +13,7 @@
     border-radius: 6px;
     margin-top: 20px;
     cursor: pointer;
-}
+} 
 h3{
     font-weight: 800;
 }
@@ -62,40 +62,54 @@ h3{
      font-size: 18px;
      margin-top: 20px;
      text-decoration: underline;
+     
+}
+.one-tree{
+    background: #fcdbe2;
+    width: 260px;
+    height: 300px;
+    padding: 0 40px;
+    padding-top: 60px;
+    border-radius: 150px 150px 0px 0px; 
+    margin-right: 20px;
 }
 .one-tree img{
-    background: #fcdbe2;
-    width: 240px;
+    width: 220px;
     height: 300px;
-    padding: 0 30px;
-    padding-top: 50px;
+}
+.two-tree{
+    background: #dfffff;
+    width: 260px;
+    height: 300px;
+    padding: 0 40px;
+    padding-top: 60px;
     border-radius: 150px 150px 0px 0px; 
     margin-right: 20px;
 }
 .two-tree img{
-    background: #dfffff;
-    width: 240px;
+    width: 220px;
+    height: 280px;
+    margin-bottom: 20px;
+}
+.three-tree{
+    background: #e8ffb3;
+    width: 260px;
     height: 300px;
-    padding: 0 30px;
-    padding-top: 50px;
+    padding: 0 40px;
+    padding-top: 60px;
     border-radius: 150px 150px 0px 0px; 
     margin-right: 20px;
 }
 .three-tree img{
-    background: #e8ffb3;
-    width: 240px;
+    width: 220px;
     height: 300px;
-    padding: 0 30px;
-    padding-top: 50px;
-    border-radius: 150px 150px 0px 0px; 
-    margin-right: 20px;
 }
 /* hot deal style */
 .hot-section{
     background: #FCEEF1;
     display: flex;
     padding: 80px 80px;
-    margin-top: 60px;
+    margin-top: 130px;
     margin: 50 auto;
 }
 .hotleft-content h3{
@@ -135,7 +149,7 @@ h3 .hot-off{
 
 .latest-content{
     background: url('image/Rectangle\ 9.png') no-repeat;
-    height: 450px;
+    height: 385px;
     background-size: 1033px 340px;
     text-align: center;
     margin-top: 50px;
