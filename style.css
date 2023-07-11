@@ -48,7 +48,7 @@ h3{
 }
 .middle-content h3{
     font-size: 32px;
-    margin-top: 100px;
+    margin-top: 80px;
     margin-bottom: 12px;
 }
 .tree-section{
@@ -130,7 +130,6 @@ h3 .hot-off{
     border: none;
     padding: 5px 10px;
     margin-top: 20px;
-    
 }
 
 .latest-content{
@@ -155,6 +154,32 @@ h3 .hot-off{
     font-size: 32px;
     margin-bottom: 12px;
 }
+/* idea section style  */
+.idea-section{
+    height: 460px;
+    width: 1050px;
+    margin: 0 auto;
+}
+.idea-head{
+    background-color: #EAEEEF;
+    width: 29%;
+    height: 220px;
+    text-align: center;
+    float: left;
+    margin-right: 20px;
+    padding: 12px;
+    border-radius: 8px;
+}
+.idea-head h4{
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 12px;   
+}
+.idea-head p{
+    line-height: 28px;  
+}
+/* footer section style  */
 footer{
     background: #000;
     color: #fff;
@@ -168,5 +193,3 @@ h3 .footer-color{
     font-size: 11px;
     margin: 23px 0px;
 }
-
-
